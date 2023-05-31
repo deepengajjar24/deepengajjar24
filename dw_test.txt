@@ -20,6 +20,7 @@ AS '
 --my comment by shikhar
 -- ramoliya trushali
 -- added commnet by shikhar
+-- neymar is a good player
 --*****************************************************************************************************************************
 --
 INSERT OVERWRITE INTO STAGE.ALAYACARE_FACT_REVENUE

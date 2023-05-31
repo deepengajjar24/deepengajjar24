@@ -17,6 +17,7 @@ AS '
 -- 19/07/21     Deepen Gajjar       Modified Contract Key logic
 -- 28/12/22     Deepen Gajjar       Modified logic for branch, client and employee key logic
 -- 25/04/23		Pinkal Panchal		Modified logic for AMOUNT_BILLED, AMOUNT_COLLECTED, AMOUNT_OUTSTANDING
+--my comment by shikhar
 --*****************************************************************************************************************************
 --
 INSERT OVERWRITE INTO STAGE.ALAYACARE_FACT_REVENUE

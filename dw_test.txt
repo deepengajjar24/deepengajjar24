@@ -19,7 +19,6 @@ AS '
 -- 25/04/23		Pinkal Panchal		Modified logic for AMOUNT_BILLED, AMOUNT_COLLECTED, AMOUNT_OUTSTANDING
 --my comment by shikhar
 -- ramoliya trushali
--- added commnet by shikhar
 --*****************************************************************************************************************************
 --
 INSERT OVERWRITE INTO STAGE.ALAYACARE_FACT_REVENUE
